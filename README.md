@@ -8,5 +8,5 @@ Ben Cemal Veysel Eren, bir Bilgisayar Mühendisiyim.
 - 🌐 Web Geliştirme: HTML, CSS, JavaScript, React.
 
 📫 Bana Ulaşın:
-- LinkedIn: [Profiliniz](https://www.linkedin.com/in/cemal-veysel-eren-078538233/)
+- LinkedIn: [https://www.linkedin.com/in/cemal-veysel-eren-078538233/](https://www.linkedin.com/in/cemal-veysel-eren-078538233/)
 - E-posta: cemaleren7256@gmail.com
