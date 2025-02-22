@@ -1,7 +1,7 @@
 # Merhaba! 👋
 
 Ben Cemal Veysel Eren, İnönü Üniveristesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.<hr>
-![Banner](https://via.placeholder.com/1200x300.png?text=Cemal+Veysel+Eren+-+Bilgisayar+Mühendisi)
+
 ## 💻 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -14,6 +14,9 @@ Ben Cemal Veysel Eren, İnönü Üniveristesi Bilgisayar Mühendisliği son sın
 📫 Bana Ulaşın:
 - LinkedIn: [https://www.linkedin.com/in/cemal-veysel-eren-078538233/](https://www.linkedin.com/in/cemal-veysel-eren-078538233/)
 - E-posta: cemaleren7256@gmail.com <hr>
+
+## 📊 **GitHub Aktivite Grafiği:**
+![GitHub Aktivite](https://github-readme-activity-graph.vercel.app/graph?username=cveysel&theme=react-dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cveysel&show_icons=true&theme=radical)<hr>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cveysel&layout=compact)
