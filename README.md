@@ -1,7 +1,7 @@
 # Merhaba! 👋
 
 Ben Cemal Veysel Eren, İnönü Üniveristesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.<hr>
-
+![Banner](https://via.placeholder.com/1200x300.png?text=Cemal+Veysel+Eren+-+Bilgisayar+Mühendisi)
 ## 💻 **Tech Stack:**
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
