@@ -15,5 +15,5 @@ Ben Cemal Veysel Eren, İnönü Üniveristesi Bilgisayar Mühendisliği son sın
 - LinkedIn: [https://www.linkedin.com/in/cemal-veysel-eren-078538233/](https://www.linkedin.com/in/cemal-veysel-eren-078538233/)
 - E-posta: cemaleren7256@gmail.com <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)<hr>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cveysel&show_icons=true&theme=radical)<hr>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cveysel&layout=compact)
